@@ -2,14 +2,6 @@
 
 A fun Python Tkinter desktop animation where a custom burger image (top and bottom buns) bounces around the screen with a dynamic name label and changing border colors.
 
----
-
-## 📸 Preview
-
-![Burger Bounce Screenshot](preview.png)  
-*Note: Replace with your actual screenshot.*
-
----
 
 ## 🧠 Features
 
